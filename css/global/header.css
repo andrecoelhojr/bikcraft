@@ -1,16 +1,19 @@
-
 .header-bg {
   background-color: var(--cor-12);
 }
 
 .header {
   display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
   justify-content: space-between;
   align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+.header img {
+  min-width: max-content;
 }
 
 .header-menu {
@@ -69,7 +72,7 @@
 
   .header-menu a {
     padding: 8px 12px;
-    font-size: 14px;
+    font-size: 0.875rem;
   }
 
 }
