@@ -18,5 +18,8 @@
 /* Bicicletas */
 @import "./bicicletas/bicicletas-lista.css";
 
-/* Seguros */
+/* seguros */
 @import "./seguros/seguros.css";
+
+/* termos */
+@import "./termos/termos.css";
