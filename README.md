@@ -3,7 +3,7 @@
 ## Projeto desenvolvido no curso HTML e CSS para Iniciantes da origamid
 
 <h4 align="center"> 
-	🚧  Em construção...  🚧
+	🚧  Finalizado...  🚧
 </h4>
 
 ### 🛠 Tecnologias
